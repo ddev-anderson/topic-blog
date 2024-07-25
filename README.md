@@ -9,33 +9,36 @@
 
 ### Tela inicial
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/efd193ca-d78b-47fc-b1bf-593abaac1339)
+![image](https://github.com/user-attachments/assets/0fc3ec85-a89c-44db-8949-d16cf90c50db)
+
 
 ### Login
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/3aa416da-37fa-44d7-ad8f-558d865c3e7d)
+![image](https://github.com/user-attachments/assets/0cea86ca-4e89-4641-a429-e21e8455e4c6)
+
 
 
 ### Cadastrar usuário
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/29ad1cda-6e4e-42fc-8939-2494dbee6de0)
+![image](https://github.com/user-attachments/assets/24a28ae6-5f07-4381-ade0-5f4ac09c6c65)
 
 
 ### Criar postagem
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/13095e29-e361-4a42-949c-8ea840add978)
+![image](https://github.com/user-attachments/assets/f5e12737-adcb-43b7-a60d-deef85f426c0)
+
 
 ### Curti e comentar postagem
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/2b950297-5a9e-4d69-8e13-2ee9d7e4a0e1)
+![image](https://github.com/user-attachments/assets/29a5b80d-145b-43e2-940a-7021a383361b)
 
 
 ### Lista de leitura
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/3bc94c73-754a-430f-98f1-2c8199fa69e5)
+![image](https://github.com/user-attachments/assets/3e81e37e-5ebb-48cf-9a1f-262ceea81662)
+
 
 ### Informações do usuário
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/0674d69a-cce2-4ede-b6b8-973b8356ded3)
-
+![image](https://github.com/user-attachments/assets/583947b4-23ff-4390-9458-da87d025cf36)
 
 
 ## Feito com
